@@ -1,0 +1,48 @@
+# depslib dependency file v1.0
+1611072934 source:c:\fontes\projetos\codeblocks\projetoalunos\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	<string.h>
+	"funcoesmatematicas.h"
+
+1611058207 c:\fontes\projetos\codeblocks\projetoalunos\funcoesmatematicas.h
+
+1611069497 source:c:\fontes\projetos\codeblocks\projetoalunos\funcoesmatematicas.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	"funcoesmatematicas.h"
+
+1611073361 source:c:\users\arthur\desktop\ifb\2 semestre\3 - pc1\projetoalunos\projetoalunos\funcoesmatematicas.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<string.h>
+	"funcoesmatematicas.h"
+
+1611058207 c:\users\arthur\desktop\ifb\2 semestre\3 - pc1\projetoalunos\projetoalunos\funcoesmatematicas.h
+
+1612241987 source:c:\users\arthur\desktop\ifb\2 semestre\3 - pc1\projetoalunos\projetoalunos\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	<string.h>
+	"funcoesmatematicas.h"
+
+1611073361 source:c:\users\arthur\desktop\ifb\2 semestre\3 - pc1\gestaoalunos\funcoesmatematicas.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<string.h>
+	"funcoesmatematicas.h"
+
+1611058207 c:\users\arthur\desktop\ifb\2 semestre\3 - pc1\gestaoalunos\funcoesmatematicas.h
+
+1615870639 source:c:\users\arthur\desktop\ifb\2 semestre\3 - pc1\gestaoalunos\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	<string.h>
+	"funcoesmatematicas.h"
+
